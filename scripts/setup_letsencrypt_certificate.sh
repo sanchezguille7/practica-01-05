@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Muestra todos los comandos que se van ejecutadno
+# Muestra todos los comandos que se van ejecutadno
 set -x
 
 # Actualizamos los repositorios
